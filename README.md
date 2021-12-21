@@ -10,8 +10,7 @@
 
 | Chapter                                                      | What To Do                                            |
 | ------------------------------------------------------------ | ----------------------------------------------------- |
-| [Abstraction: Processes](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) | ![ZAK9IC}7SRRMJ FH (W~)_I](https://user-images.githubusercontent.com/62886679/146889052-b072cd2b-dc11-429f-8c16-4f74dc4b72fa.png)
-Run [process-run.py](cpu-intro)                      |
+| [Abstraction: Processes](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) | Run [process-run.py](cpu-intro)                      |
 | [Process API](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf) | ❌Run [fork.py](cpu-api) and write some code           |
 | [Direct Execution](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf) | ❌Write some code                                      |
 | [Scheduling Basics](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) | ❌Run [scheduler.py](cpu-sched)                        |
