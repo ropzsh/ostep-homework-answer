@@ -33,14 +33,14 @@ Chapter | What To Do| Answer
 
 Chapter | What To Do| Answer 
 --------|-----------|-----------
-[Threads Intro](http://www.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf) | :x:Run [x86.py](threads-intro) |  
-[Thread API](http://www.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf)	| :x:Run [some C code](threads-api) |  
-[Locks](http://www.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf)	| :x:Run [x86.py](threads-locks) |  
-[Lock Usage](http://www.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf) | :x:Write some code |  
-[Condition Variables](http://www.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf) | :x:Run [some C code](threads-cv) |  
-[Semaphores](http://www.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf):x: | :x:Read and write [some code](threads-sema) |  
-[Concurrency Bugs](http://www.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) | :x:Run [some C code](threads-bugs) |  
-[Event-based Concurrency](http://www.cs.wisc.edu/~remzi/OSTEP/threads-events.pdf) | :x:Write some code |  
+[Threads Intro](http://www.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf) | :x:Run [x86.py](threads-intro) |
+[Thread API](http://www.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf)	| :x:Run [some C code](threads-api) |
+[Locks](http://www.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf)	| :x:Run [x86.py](threads-locks) |
+[Lock Usage](http://www.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf) | :x:Write some code |
+[Condition Variables](http://www.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf) | :x:Run [some C code](threads-cv) |
+[Semaphores](http://www.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf) | :x:Read and write [some code](threads-sema) |
+[Concurrency Bugs](http://www.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) | :x:Run [some C code](threads-bugs) |
+[Event-based Concurrency](http://www.cs.wisc.edu/~remzi/OSTEP/threads-events.pdf) | :x:Write some code |
 
 # Persistence
 
