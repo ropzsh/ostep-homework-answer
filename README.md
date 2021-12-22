@@ -13,7 +13,7 @@ Chapter | What To Do| Answer
 [Abstraction: Processes](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) | :heavy_check_mark:Run [process-run.py](cpu-intro) | [answer.md](cpu-intro/answer.md) 
 [Process API](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf) | :heavy_check_mark:Run [fork.py](cpu-api) and write some code](cpu-intro)](cpu-intro)](cpu-intro) | [answer.md](cpu-api/answer.md) 
 [Direct Execution](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf) | :heavy_check_mark:Write some code | [answer.md](direct-execution/answer.md) 
-[Scheduling Basics](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) | :x:Run [scheduler.py](cpu-sched) |
+[Scheduling Basics](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) | :heavy_check_mark:Run [scheduler.py](cpu-sched) |[answer.md](cpu-sched/answer.md)
 [MLFQ Scheduling](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf)	| :x:Run [mlfq.py](cpu-sched-mlfq) |
 [Lottery Scheduling](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-sched-lottery.pdf) | :x:Run [lottery.py](cpu-sched-lottery) |
 [Multiprocessor Scheduling](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf) | :x:Run [multi.py](cpu-sched-multi) |
