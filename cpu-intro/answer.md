@@ -1,5 +1,3 @@
-习题源代码及README：https://github.com/remzi-arpacidusseau/ostep-homework/tree/master/cpu-intro
-
 **1.用以下标志运行程序: ./process-run.py -l 5:100,5:100 。CPU 利用率(CPU 使用时间**
 **的百分比)应该是多少?为什么你知道这一点?利用 -c 标记查看你的答案是否正确。**
 

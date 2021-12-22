@@ -1,5 +1,3 @@
-习题源代码及README：https://github.com/remzi-arpacidusseau/ostep-homework/tree/master/cpu-api
-
 **1.编写一个调用 fork()的程序。在调用之前,让主进程访问一个变量(例如 x)并将其值设置为某个值(例如 100)。子进程中的变量有什么值?当子进程和父进程都改变 x 的值时,变量会发生什么?**
 
 **代码**：
