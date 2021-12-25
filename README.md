@@ -33,7 +33,7 @@ Chapter | What To Do| Answer
 
 Chapter | What To Do| Answer 
 --------|-----------|-----------
-[Threads Intro](http://www.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf) | :x:Run [x86.py](threads-intro) |
+[Threads Intro](http://www.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf) | :heavy_check_mark:Run [x86.py](threads-intro) |[answer.md](threads-intro/answer.md)
 [Thread API](http://www.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf)	| :x:Run [some C code](threads-api) |
 [Locks](http://www.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf)	| :x:Run [x86.py](threads-locks) |
 [Lock Usage](http://www.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf) | :x:Write some code |
